@@ -171,7 +171,7 @@ body {
 
 /* 影片播放器 */
 .video-container {
-    width: 100%;
+    width: 60%;
     max-width: 900px;
     margin: 20px auto;
     border-radius: 10px;
@@ -180,6 +180,6 @@ body {
 }
 
 .video-container iframe {
-    width: 60%;
+    width: 100%;
     height: 400px;
 }
